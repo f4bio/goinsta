@@ -1,1 +1,1 @@
-module github.com/ahmdrz/goinsta.v2
+module github.com/f4bio/goinsta.v2
